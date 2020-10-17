@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World!!!意味がわからない'
+    return 'Hello, World!!!仮想環境でアップする'
